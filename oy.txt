@@ -1,0 +1,14 @@
+[2026-03-28 22:45:00]
+Server Player Count: 14/18
+Place ID: 1234567890
+Job ID: 11111111-2222-3333-4444-555555555555
+- Legendary Brainrot Pet
+- Rare Pet x2
+- Epic Pet Name
+
+[2026-03-28 22:30:15]
+Server Player Count: 10/18
+Place ID: 1234567890
+Job ID: abcdef12-3456-7890-abcd-ef1234567890
+- Common Pet
+- Another Rare Pet
