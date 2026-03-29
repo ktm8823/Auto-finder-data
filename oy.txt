@@ -1,14 +1,59 @@
-[2026-03-28 22:45:00]
+[2026-03-28 23:15:00]
 Server Player Count: 14/18
-Place ID: 1234567890
+Place ID: 109983668079237
 Job ID: 11111111-2222-3333-4444-555555555555
-- Legendary Brainrot Pet
-- Rare Pet x2
-- Epic Pet Name
+- La Vacca Saturno Saturnita
+- Strawberry Elephant
+- Dragon Cannelloni
+- Blackhole Goat
+- Hydra Dragon Cannelloni
+- Jackorila
+- Los Tralaleritos
+- Las Tralaleritas
+- Headless Horseman
+- Meowl
 
-[2026-03-28 22:30:15]
-Server Player Count: 10/18
-Place ID: 1234567890
+[2026-03-28 23:10:30]
+Server Player Count: 12/18
+Place ID: 109983668079237
 Job ID: abcdef12-3456-7890-abcd-ef1234567890
-- Common Pet
-- Another Rare Pet
+- Bisonte Giuppitere
+- Karkerkar Kurkur
+- Trenostruzzo Turbo 4000
+- Sammyni Spyderini
+- Chimpanzini Spiderini
+- Extinct Tralalero
+- Extinct Matteo
+- Griffin
+- Love Love Bear
+- Garama and Madundung
+
+[2026-03-28 23:05:45]
+Server Player Count: 15/18
+Place ID: 109983668079237
+Job ID: 22222222-3333-4444-5555-666666666666
+- Ketchuru and Masturu
+- La Supreme Combinasion
+- Los Matteos
+- Nuclearo Dinossauro
+- Spaghetti Tualetti
+- Las Sis
+- Pandanini Frostini
+- Agarrini La Palini
+- Chachechi
+- Dul Dul Dul
+
+[2026-03-28 23:00:15]
+Server Player Count: 11/18
+Place ID: 109983668079237
+Job ID: 33333333-4444-5555-6666-777777777777
+- Torrtuginni Dragonfrutini
+- Boatito Auratito
+- Guerriro Digitale
+- La Cucaracha Vulturino
+- Skeletono
+- Fragola La La La
+- Yes My Examen
+- Los Tortus Zombie Tralala
+- Perrito Burrito
+- Las Vaquitas Saturnitas
